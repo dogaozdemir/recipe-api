@@ -29,7 +29,7 @@ After that for running the application use the command below
 mvn spring-boot:run
 ```
 
-2:Docker
+2-Docker
 
 ```sh
 docker build -t recipe-api:1.0 .
@@ -59,4 +59,5 @@ http://localhost:8080/swagger-ui/
 - H2 In memory database
 - Maven
 - JUnit 5
+- Sonarlint (local)
 
