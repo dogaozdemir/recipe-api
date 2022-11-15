@@ -13,6 +13,7 @@ This project provides to manage recipes for users.
 
 ### Run & Build
 There are 2 ways of run & build the application.
+Test user is already inserted, set Authorization header to 1.
 
 1-Maven:
 
