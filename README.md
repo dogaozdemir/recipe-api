@@ -61,3 +61,7 @@ http://localhost:8080/swagger-ui/
 - JUnit 5
 - Sonarlint (local)
 
+
+### Architecture
+
+![img.png](img.png)
